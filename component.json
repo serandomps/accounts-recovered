@@ -1,0 +1,21 @@
+{
+  "name": "accounts-recovered",
+  "description": "accounts-recovered component",
+  "local": [],
+  "styles": [
+    "styles.css"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "serandomps/dust": "master",
+    "serandomps/serand": "master",
+    "serandomps/accounts-profile": "master",
+    "serandomps/accounts-signup": "master"
+  }
+}
